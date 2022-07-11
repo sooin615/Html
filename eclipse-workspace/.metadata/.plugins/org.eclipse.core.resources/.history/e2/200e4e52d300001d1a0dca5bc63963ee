@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>좋아하는 음료 소개</title>
+</head>
+
+<hr>
+<body>
+<h1>좋아하는 음료수 BEST 3</h1>
+<ol>
+	<li>레모네이드
+	<li>아이스티
+	<li>사과 에이드
+
+</ol>
+<hr>
+
+</body>
+</html>

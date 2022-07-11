@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<meta charset="UTF-8">
+<title>자기 소개 페이지 by sooin</title>
+</head>
+<body>
+<h1 style="color:#a6c1ff">Introduce</h1>
+<hr>
+
+<h2>HI it's sooin</h2>
+<h2>today introduce me!!</h2>
+
+<details>
+
+<summary>Name:천수인</summary>
+<h2 style="color:#a6c1ff">천수인 (Chon sooin)</h2>
+
+	
+	<details>
+	
+	<summary>살았던 곳</summary>
+	
+	<h2 style="color:#a6c1ff"> Home </h2>
+	
+	<ol>
+	
+	<li> 경기도 화성시 봉담읍 와우리
+	<li> 경기도 수원시 권선구 입북동
+	<li> 경기도 용인시 기흥구 동백동
+	<li> 경상북도 대구공역시 달서구 두류동
+	
+	
+	</ol>
+	
+	</details>
+
+
+		<details>
+		
+		<summary>연혁</summary>
+		
+		<h2 style="color:#a6c1ff"> History </h2>
+		
+		<ul>
+		
+		<li> 입북초등학교
+		<li> 동백중학교
+		<li> 구남중학교
+		<li> 대구 소프트웨어 마이스터 고등학교
+		
+		
+		</ul>
+		
+		</details>
+		
+			<details>
+			
+			<summary>좋아하는 것들</summary>
+			
+			<h2 style="color:#a6c1ff"> Like it! </h2>
+			
+				<details>
+				
+				<summary>과목</summary>
+				
+				<h2 style="color:#a6c1ff">과목</h2>
+				
+				<ul>
+				
+				<li style="color:red"> 체육
+				<li style="color:orange"> 미술
+				<li style="color:#ffe500"> 국어
+				<li style="color:green"> 음악
+				<li style="color:blue"> 사회
+				
+				</ul>
+				
+				</details>
+				
+				<details>
+				
+				<summary>음식</summary>
+				
+				<h2 style="color:#a6c1ff">eat!</h2>
+				
+				<ul>
+				
+				<li style="color:red"> pasta
+				<li style="color:orange"> pizza
+				<li style="color:#ffe500"> drink
+				<li style="color:green"> apple
+				<li style="color:blue"> lemon
+				
+				</ul>
+				
+				</details>
+					
+			
+			
+			
+			</details>
+			
+<table>
+
+<tr><th>sooin</th><th>SNS!!</th></tr>
+<tr><td>Instagram</td><th>so._.in</th></tr>
+<tr><td>Youtube</td><th>agiss</th></tr>
+
+
+
+
+
+</table>
+
+
+</details>
+
+
+
+
+
+
+
+</body>
+</html>
