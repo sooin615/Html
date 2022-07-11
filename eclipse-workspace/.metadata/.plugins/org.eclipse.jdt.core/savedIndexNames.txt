@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/agiss/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-4232423632.index
-1883690871.index
